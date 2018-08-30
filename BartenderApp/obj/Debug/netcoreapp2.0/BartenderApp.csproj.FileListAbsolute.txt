@@ -1,0 +1,11 @@
+C:\Users\John\source\repos\BartenderApp\BartenderApp\obj\Debug\netcoreapp2.0\BartenderApp.csprojAssemblyReference.cache
+C:\Users\John\source\repos\BartenderApp\BartenderApp\obj\Debug\netcoreapp2.0\BartenderApp.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\BartenderApp\BartenderApp\obj\Debug\netcoreapp2.0\BartenderApp.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\BartenderApp\BartenderApp\obj\Debug\netcoreapp2.0\BartenderApp.AssemblyInfo.cs
+C:\Users\John\source\repos\BartenderApp\BartenderApp\bin\Debug\netcoreapp2.0\BartenderApp.deps.json
+C:\Users\John\source\repos\BartenderApp\BartenderApp\bin\Debug\netcoreapp2.0\BartenderApp.runtimeconfig.json
+C:\Users\John\source\repos\BartenderApp\BartenderApp\bin\Debug\netcoreapp2.0\BartenderApp.runtimeconfig.dev.json
+C:\Users\John\source\repos\BartenderApp\BartenderApp\bin\Debug\netcoreapp2.0\BartenderApp.dll
+C:\Users\John\source\repos\BartenderApp\BartenderApp\bin\Debug\netcoreapp2.0\BartenderApp.pdb
+C:\Users\John\source\repos\BartenderApp\BartenderApp\obj\Debug\netcoreapp2.0\BartenderApp.dll
+C:\Users\John\source\repos\BartenderApp\BartenderApp\obj\Debug\netcoreapp2.0\BartenderApp.pdb
